@@ -1,4 +1,4 @@
-![Image](images/rovers.gif)
+![Image](images/rovers.jpg)
 # Flutter Pokemon Application :boom:
 
 Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 

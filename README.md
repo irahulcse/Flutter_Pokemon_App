@@ -13,6 +13,12 @@ Flutter Pokemon Application is a very intutive and nice UI and JSON based Applic
 * [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
 <!-- * [❌] Everything is static right now, no API integration done on it. -->
   
+### Screenshots and Working GIFS:
+
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.png" height="300em" width="250em"/> <img src="images/2.png" height="300em" width="250em"/><img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/4.png" height="300em" width="250em"/> <img src="images/3.png" height="300em" width="250em"/><img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/5.png" height="300em" width="250em"/> <img src="images/6.png" height="300em" width="250em"/><img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/7.png" height="300em" width="250em"/> <img src="images/8.png" height="300em" width="250em"/><img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/7.png" height="300em" width="250em"/> <img src="images/9.png" height="300em" width="250em"/>
+
+
+ Sorry for the quality of the GIF :pray:
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -35,12 +41,6 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 <a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
-### Screenshots and Working GIFS:
-
-<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
-
-
- Sorry for the quality of the GIF :pray:
 
 ### Testing
 

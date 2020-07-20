@@ -1,12 +1,18 @@
 ![Image](images/rovers.jpg)
 # Flutter Pokemon Application :boom:
+
 ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev)
 
-Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
+Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
 
-<!-- | Master Release | Dev Release |
-| -------------- | ----------- |
-| ![Demo App PlayStore Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20PlayStore%20Release/badge.svg) | ![Demo App Android Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20Android%20Release/badge.svg?branch=dev) | -->
+## Unique Features of the Application:
+* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+* [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
+* [✅]Map is an data structure which is used for passing it through the function.
+* [✅] Live Working Project
+* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
+<!-- * [❌] Everything is static right now, no API integration done on it. -->
+  
 
 
 ### Show some love :heart: and star the repo to support the project
@@ -18,12 +24,6 @@ The Parent Repository of this project can be found on this [link](https://github
 # Live Working Project:
 
 [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
-
-## Features Needed to Be Added:
-
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it.
 
 ### Created with :heart:
 A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 

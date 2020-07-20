@@ -62,8 +62,17 @@ class PokeDetail extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
+        centerTitle: true,
         elevation: 0.0,
-        title: Text(pokemon.name),
+        title: Text(
+          pokemon.name,
+          style: TextStyle(
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+            fontSize: 25,
+            // backgroundColor: Colors.pink,
+          ),
+        ),
       ),
       body: bodyWidget(context),
     );

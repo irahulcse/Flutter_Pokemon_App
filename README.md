@@ -1,7 +1,6 @@
 ![Image](images/rovers.jpg)
 # Flutter Pokemon Application :boom:
 ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev)
-[![Build Status](https://travis-ci.org/irahulcse/Flutter_Pokemon_App.png?branch=master)](https://travis-ci.org/irahulcse/Flutter_Pokemon_App)
 
 Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
 

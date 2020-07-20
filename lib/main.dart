@@ -4,6 +4,7 @@ import 'package:http/http.dart' as http;
 import 'pokemon.dart';
 import 'pokemondetail.dart';
 
+int x = 0;
 void main() => runApp(
       MaterialApp(
         title: 'Pokemon App',
@@ -34,8 +35,8 @@ class _HomePageState extends State<HomePage> {
     // print(res.body);
     var decodeJson = jsonDecode(res.body);
     pokeHub = PokeHub.fromJson(decodeJson);
-    print(pokeHub.toJson());
-
+    // print(pokeHub.toJson());
+    // print(MediaQuery.of(context).size.height);
     setState(() {});
   }
 
@@ -44,7 +45,16 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Pokemon App'),
+        title: Center(
+          child: Text(
+            'Pokemon App',
+            style: TextStyle(
+              color: Colors.white,
+              fontWeight: FontWeight.bold,
+              fontSize: 30,
+            ),
+          ),
+        ),
       ),
       body: pokeHub == null
           ? Center(
@@ -61,9 +71,7 @@ class _HomePageState extends State<HomePage> {
                           Navigator.push(
                             context,
                             MaterialPageRoute(
-                              builder: (context) => PokeDetail(
-                                pokemon: poke,
-                              ),
+                              builder: (context) => PokeDetail(pokemon: poke),
                             ),
                           );
                         },
@@ -86,6 +94,7 @@ class _HomePageState extends State<HomePage> {
                                 Text(
                                   poke.name,
                                   style: TextStyle(
+                                    color: Colors.purpleAccent,
                                     fontSize: 20.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -104,8 +113,8 @@ class _HomePageState extends State<HomePage> {
 }
 
 ThemeData _lightTheme = ThemeData(
-  primaryColor: Color(0xFFe46d47),
-  accentColor: Color(0xFFe46d47),
+  primaryColor: Colors.purpleAccent,
+  accentColor: Colors.blueAccent,
   textTheme: TextTheme(
     bodyText1: TextStyle(
       fontSize: 18,

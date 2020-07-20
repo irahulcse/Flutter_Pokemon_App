@@ -1,11 +1,12 @@
 ![Image](images/rovers.jpg)
-# Bottom_Sheets_UI_Flutter :boom:
+# Flutter Pokemon Application :boom:
+![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/workflows/Flutter%20Web/badge.svg?branch=dev) |
 
 Created Telegram User Interface in Flutter using the **widgets** like ListTile, ListView and different builders like the ListView Builder Seperator and also used the other widgets like CircleAvator, Text widgets for UI etc.
 
-| Master Release | Dev Release |
+<!-- | Master Release | Dev Release |
 | -------------- | ----------- |
-| ![Demo App PlayStore Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20PlayStore%20Release/badge.svg) | ![Demo App Android Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20Android%20Release/badge.svg?branch=dev) |
+| ![Demo App PlayStore Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20PlayStore%20Release/badge.svg) | ![Demo App Android Release](https://github.com/iqans/flutter-ci-github-actions-demo/workflows/Demo%20App%20Android%20Release/badge.svg?branch=dev) | -->
 
 
 ### Show some love :heart: and star the repo to support the project
